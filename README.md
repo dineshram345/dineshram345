@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DINESH RAM</h1>
-https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=2500w
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 <h3 align="center">A passionate Machine Learning Engineer from India.</h3>
 https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif
 <h3 align="left">Connect with me:</h3>
