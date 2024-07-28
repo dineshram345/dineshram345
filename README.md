@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DINESH RAM</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India.</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetsensibill.com%2Fblog%2Fmachine-learning-receipts-2&psig=AOvVaw0RBxteJvzcPjlWqDOanIQu&ust=1722258640280000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNDbncbnyYcDFQAAAAAdAAAAABAx
+https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-ram-6ab30616b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-ram-6ab30616b/" height="30" width="40" /></a>
