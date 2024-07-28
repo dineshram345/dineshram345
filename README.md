@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Machine Learning Engineer from India.</h3>
 <img alighn=" right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
-<p align="left">https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-ram-6ab30616b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-ram-6ab30616b/" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-ram-6ab30616b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-ram-6ab30616b/" height="30" width="40" /></a>
 <a href="https://medium.com/dineshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dineshram" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dineshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dineshram" height="30" width="40" /></a>
 </p>
